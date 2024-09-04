@@ -16,7 +16,7 @@ The below files are provided and would need a special exception from the Core Te
 ## Repo Level 
 
 The following files are required in each repo and are not set at Org level:
-- CONTRIBUTING.md*
+- CONTRIBUTING.md+
 - LICENSE
 - README.md 
 
@@ -26,4 +26,4 @@ The following files are required in each repo and are not set at Org level:
 - issue template
 
 
-* this file can be present at the .github org level but it does not have the same distribution benefits as other files so repo level is required 
++this file can be present at the .github org level but it does not have the same distribution benefits as other files so repo level is required 

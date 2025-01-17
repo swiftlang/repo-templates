@@ -3,12 +3,12 @@
 Helpful file templates and guidance for repositories in /swiftlang. Project maintainers should use this guidance for the root files of every repository. 
 
 ## Notes for contribex members / roles:
-Anthony: queue up codeowners, PR, and issue templates guidance
-Devanshi: README template
-Harshita: CONTRIBUTING custom template
-Joe: editor 
-Paris: repo-template README + lead and mentor - assist you all in each area 
-Invite George B, Franz, and Honza to contribute for packages / libraries 
+Anthony: queue up codeowners, PR, and issue templates guidance  
+Devanshi: README template  
+Harshita: CONTRIBUTING custom template  
+Joe: editor   
+Paris: repo-template README + lead and mentor - assist you all in each area   
+Invite George B, Franz, and Honza to contribute for packages / libraries   
 
 ## Org Level 
 

@@ -9,16 +9,15 @@
 
 ----------
 
-## Welcome the Swift community! 
+## Welcome to the Swift community!
 
-Contributions to Swift are welcomed and encouraged! Please see the Contributing to Swift guide and check out the structure of the community.[links] 
+Contributions to Swift are welcomed and encouraged! Please see the [Contributing to Swift guide](https://www.swift.org/contributing/) and check out [the structure of the community](https://www.swift.org/community/#community-structure).
 
-To be a truly great community, Swift needs to welcome developers from all walks of life, with different backgrounds, and with a wide range of experience. A diverse and friendly community will have more great ideas, more unique perspectives, and produce more great code. We will work diligently to make the Swift community welcoming to everyone.
+To be a truly great community, Swift welcomes developers from all walks of life, with different backgrounds, and with a wide range of experience. A diverse and friendly community has more great ideas, more unique perspectives, and produces more great code. We work diligently to make the Swift community welcoming to everyone.
 
-To give clarity of what is expected of our members, Swift has adopted the code of conduct defined by the Contributor Covenant. This document is used across many open source communities, and we think it articulates our values well. For more, see the Code of Conduct. [link]
+To give clarity of what is expected of our members, Swift has adopted the code of conduct) defined by the Contributor Covenant. This document is used across many open source communities, and articulates our values well. For more detail, please read the [Code of Conduct](https://www.swift.org/code-of-conduct/).
 
-## Contributing to /swiftlang/repo-name-here
- 
+## Contributing to /swiftlang/[repo-name-here]
 
 ### How you can help
 We would love your contributions in the form of:

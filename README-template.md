@@ -1,69 +1,90 @@
-# README template
+# README Template
 
-# README Template 
-
-## Instructions 
+## Instructions [to mantainer]
 - If a header doesn't make sense for your repo, remove it
 - Fill in the [blanks] and answer the bullets questions, remove it if it's not necessary 
 
+[Optional: Project Logo]
 
-__________
+## Name of Project
 
-[Badges]
+[!IMPORTANT]
+[Optional: Critical notices about project status, pre-release warnings, or major changes, tags]
 
-[Logo]
+[One-line description of what the project does and its primary value proposition]
 
-## Name of Project 
-
-[Docs](link to docs)
-
-[Short description of what this is; under 500 characters]
-
-## [Use Cases] or [Overview] 
-- tell us what this is used for 
-- anything fun and interesting?
-- edge cases?
-- If use cases are too early, do a longer description as an overview with a vision/mission. 
+## Overview
+[Provide a brief description of the repository, its purpose, and key features.]
 
 ## Glossary
-- Explain important terms here that could mean other things in different projects or brand new concepts/terms 
-
-## Release Cadence / Release Information
-- Does this repo participate in the Swift release process? If not, get detailed here about how many releases that users can expect a year and other details 
-
+[Explain important terms here that could mean other things in different projects or brand new concepts/terms]
 
 ## Getting Started
 
-### Step Zero and Dependancies 
+### Prerequisites
+[List the tools, libraries, or environment setup needed to work with this repository. Include links, version requirements or instructions for installation if necessary.]
 
-- It's common to jump in at a point that is good for you but think about beginners: will they have docker installed? etc
-- Could your users be coming from another platform? Is this mac/iOS only?
+### Installation
+[Clear instructions for those who want to use the project, not contribute to it]
 
-### Next steps 
+[Provide step-by-step instructions to set up the repository locally.]
 
-- detail out the scripts for install 
-- include screenshots if it makes things better
-- include other headers that make sense for someone installing
+[Include alternate installation methods if applicable]
 
-## Need help? Want to reach out?
+### Running the Project
+[Include instructions to build, test, or run the project.]
 
-- Where do people go for "help"? What does help look like for someone coming here?
-- Where do people NOT go for help?
-    - Example: don't file an issue, please go to the forums
-- How do people get in contact with the maintainers? Or the community?
-    - list forum category
-    - `github team name here`
+### Usage
 
+[Provide minimal working example of how to use the project. Add code snippets or command-line examples as needed.]
+
+## Use Cases
+
+[List primary use cases and scenarios where this project shines. Include code snippets or real-world examples where helpful]
+
+## Documentation
+
+Documentation is hosted on the [Swift Package Index]($DOCS_URL) where you'll also find [tutorials]($DOCS_TUTORIALS_TOC_URL) and
+guides for using the project.
+
+- [API Documentation](link-to-docs) - Complete API reference and guides
+- [Tutorials](link-to-tutorials) - Step-by-step guides for common use cases
+- [Examples](link-to-examples) - Sample projects demonstrating various features
+
+## Release Cadence / Release Information
+- Does this repo participate in the Swift release process? If not, get it detailed here about how many releases that users can expect a year and other details 
+- Release Cadence: [Describe release schedule or process]
+- Version Compatibility: [Detail Swift/platform version requirements]
+- Migration Guides: [Link to upgrade guides between major versions]
 
 ## Contributing
 
-- general blurb here OR
-    - see swiftlang/swift/README.md
-    - if you have more things to say than this like what your branching model is, coding style and linters, etc. see bullet #2. 
-- link to your CONTRIBUTING.md 
-    - `Please see our contributing guide [here](URL)`
-    - use this doc as more details than the main swift.org/contributing guide
+<!-- Choose ONE of the following Contributing sections based on whether you have a project spect CONTRIBUTING.md file -->
+<!-- OPTION 1: For repos WITHOUT a custom CONTRIBUTING.md file -->
+We welcome contributions to [Project Name]! 
 
+To get started, please read the [Contributing Guide](https://www.swift.org/contributing/).
+
+<!-- OPTION 2: For repos WITH a custom CONTRIBUTING.md file -->
+We welcome contributions to [Project Name]! 
+
+Please see our CONTRIBUTING.md file for guidelines specific to this project.
+
+[If there are specific setup requirements for contributors that differ from users, include them here.]
+- [How to get started as a contributor]
+- [Development workflow]
+- [Coding guidelines]
+- [Pull request process]
+
+## Support
+If you have any questions or need help, feel free to reach out by [opening an issue](https://github.com/swiftlang/[repository-name]/issues) or contacting the maintainers.
+
+- [GitHub Issues](link-to-issues) - Bug reports and feature requests
+- [Forums](link-to-forums) - General discussion and support
+- Team Contact: [@team-handle]
+
+## Security
+If you discover a security vulnerability, please follow our [security policy](SECURITY.md) for responsible disclosure.
 
 ## License
-[Apache 2.0](URL to license)
+This project is licensed under the terms of the [LICENSE](URL to license)

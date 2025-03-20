@@ -43,13 +43,17 @@
 [List primary use cases and scenarios where this project shines. Include code snippets or real-world examples where helpful]
 
 ## Documentation
-
+<!-- CHOOSE ONE OF THE FOLLOWING DOCUMENTATION SECTIONS BASED ON PROJECT TYPE -->
+<!-- FOR LIBRARIES/PACKAGES/FRAMEWORKS: 
 Documentation is hosted on the [Swift Package Index]($DOCS_URL) where you'll also find [tutorials]($DOCS_TUTORIALS_TOC_URL) and
 guides for using the project.
-
+-->
+<!-- Include relevant options -->
 - [API Documentation](link-to-docs) - Complete API reference and guides
 - [Tutorials](link-to-tutorials) - Step-by-step guides for common use cases
 - [Examples](link-to-examples) - Sample projects demonstrating various features
+- [Configuration Guide](link-to-configuration) - Available settings and configuration options
+- [Troubleshooting](link-to-troubleshooting) - Common issues and solutions
 
 ## Release Cadence / Release Information
 - Does this repo participate in the Swift release process? If not, get it detailed here about how many releases that users can expect a year and other details 

@@ -26,7 +26,8 @@ The below files are provided and would need a special exception from the Core Te
 The following files are required in each repo and are not set at Org level:
 - CONTRIBUTING.md+
 - LICENSE
-- README.md 
+- README.md
+- CONTRIBUTORS.txt
 
 .github templates:
 - codeowners

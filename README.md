@@ -7,7 +7,7 @@ Anthony: queue up codeowners, PR, and issue templates guidance
 Devanshi: README template  
 Harshita: CONTRIBUTING custom template  
 Joe: editor   
-Paris: repo-template README + lead and mentor - assist you all in each area   
+Paris: repo-template README + CONTRIBUTORS.txt + lead and mentor - assist you all in each area   
 Invite George B, Franz, and Honza to contribute for packages / libraries   
 
 ## Org Level 

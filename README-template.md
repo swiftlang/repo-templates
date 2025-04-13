@@ -13,7 +13,7 @@
 
 [One-line description of what the project does and its primary value proposition]
 
-[Add relevant highlights according to the peoject]
+[Add relevant highlights according to the project]
 <!-- Example
 🚀 Swift package for [what it does]
 📦 Compatible with Swift Package Manager

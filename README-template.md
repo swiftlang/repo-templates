@@ -1,4 +1,4 @@
-# README Template
+# README 
 
 ## Instructions [to mantainer]
 - If a header doesn't make sense for your repo, remove it
@@ -13,8 +13,32 @@
 
 [One-line description of what the project does and its primary value proposition]
 
+[Add relevant highlights according to the peoject]
+<!-- Example
+🚀 Swift package for [what it does]
+📦 Compatible with Swift Package Manager
+📱 Supports iOS, macOS, watchOS, tvOS, and visionOS
+🔧 Built with Swift 5.7+, Xcode 15+
+🛡️ MIT Licensed
+-->
+
+🔗 Jump to:
+- 📖 [Overview](#overview)
+- ⚙️ [Use Cases](#use-cases)
+- 📋 [Glossary](#glossary)
+- 🏁 [Getting Started](#getting-started)
+- 📘 [Documentation](#documentation)
+- 🧰 [Release Info](#release-info)
+- 💡 [Contributing](#contributing)
+- 🛠️ [Support](#support)
+- 🔐 [Security](#security)
+- 📄 [License](#license)
+
 ## Overview
 [Provide a brief description of the repository, its purpose, and key features.]
+
+## Use Cases
+[List primary use cases and scenarios where this project shines. Include code snippets or real-world examples where helpful]
 
 ## Glossary
 [Explain important terms here that could mean other things in different projects or brand new concepts/terms]
@@ -23,9 +47,36 @@
 
 ### Prerequisites
 [List the tools, libraries, or environment setup needed to work with this repository. Include links, version requirements or instructions for installation if necessary.]
+<!-- EXAMPLE:
+- Swift version: [minimum Swift version required, e.g., Swift 5.0+]
+- Deployment targets if any:
+  - iOS: [minimum iOS version, e.g., iOS 17.0+]
+  - macOS: [minimum macOS version, e.g., macOS 14.0+]
+  - watchOS: [minimum watchOS version, e.g., watchOS 10.0+]
+  - tvOS: [minimum tvOS version, e.g., tvOS 17.0+]
+  - visionOS: [minimum visionOS version, e.g., visionOS 1.0+]
+- [Other tools or libraries required, e.g., Xcode 15.0+]
+- [Any additional dependencies with version requirements]
+- [Any system requirements or configuration needed]
+-->
 
-### Installation
-[Clear instructions for those who want to use the project, not contribute to it]
+### Installation / Integration
+[Clear instructions for those who want to use the project, **not contribute** to it]
+
+<!-- Choose the relevant instructions depending on project type -->
+
+<!-- FOR SWIFT PACKAGES/LIBRARIES: -->
+#### Adding as a Dependency
+To use [Project Name] in your Swift project, add it as a dependency in your `Package.swift` file:
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/organization/project.git", from: "1.0.0")
+]
+```
+
+<!-- FOR OTHER PROJECT TYPES: -->
+#### Setting Up [Project Name]
 
 [Provide step-by-step instructions to set up the repository locally.]
 
@@ -38,11 +89,8 @@
 
 [Provide minimal working example of how to use the project. Add code snippets or command-line examples as needed.]
 
-## Use Cases
-
-[List primary use cases and scenarios where this project shines. Include code snippets or real-world examples where helpful]
-
 ## Documentation
+
 <!-- CHOOSE ONE OF THE FOLLOWING DOCUMENTATION SECTIONS BASED ON PROJECT TYPE -->
 <!-- FOR LIBRARIES/PACKAGES/FRAMEWORKS: 
 Documentation is hosted on the [Swift Package Index]($DOCS_URL) where you'll also find [tutorials]($DOCS_TUTORIALS_TOC_URL) and
@@ -55,7 +103,7 @@ guides for using the project.
 - [Configuration Guide](link-to-configuration) - Available settings and configuration options
 - [Troubleshooting](link-to-troubleshooting) - Common issues and solutions
 
-## Release Cadence / Release Information
+## Release Info
 - Does this repo participate in the Swift release process? If not, get it detailed here about how many releases that users can expect a year and other details 
 - Release Cadence: [Describe release schedule or process]
 - Version Compatibility: [Detail Swift/platform version requirements]

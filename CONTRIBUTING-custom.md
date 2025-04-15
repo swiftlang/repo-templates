@@ -1,11 +1,10 @@
 # CONTRIBUTING.md Custom Template
 
-## GOALS / INSTRUCTIONS 
-- If you have more details than the swift.org/contributing guide, copy and paste this template. Fill it out with the sections that make sense. 
-- If you have the same details as swift.org/contributing, you'll add a section to your README and ignore this template. 
-- Take the sections that apply and leave the ones that don't 
+## Guidelines [to mantainer]
+- If you have more details than the [Contributing to Swift guide](https://www.swift.org/contributing/), copy and paste this template.
+- If you have the same details as [Contributing to Swift guide](https://www.swift.org/contributing/), you'll add a section to your README and ignore this template. 
+- Only use the sections that are are relevant
 - Remove all brackets and questions posed at you as the author 
-
 
 ----------
 
@@ -13,43 +12,66 @@
 
 Contributions to Swift are welcomed and encouraged! Please see the [Contributing to Swift guide](https://www.swift.org/contributing/) and check out [the structure of the community](https://www.swift.org/community/#community-structure).
 
-To be a truly great community, Swift welcomes developers from all walks of life, with different backgrounds, and with a wide range of experience. A diverse and friendly community has more great ideas, more unique perspectives, and produces more great code. We work diligently to make the Swift community welcoming to everyone.
+To be a truly great community, Swift welcomes developers from all walks of life, with different backgrounds, and with a wide range of experience. A diverse and friendly community fosters better ideas and unique perspectives, which enables for higher quality code. We prioritize making the Swift community welcoming to everyone. We hope to see developers work together bettering Swift by understanding issues and putting up quality code that gets landed.
 
-To give clarity of what is expected of our members, Swift has adopted the code of conduct) defined by the Contributor Covenant. This document is used across many open source communities, and articulates our values well. For more detail, please read the [Code of Conduct](https://www.swift.org/code-of-conduct/).
+To give clarity of what is expected of our members, Swift has adopted the code of conduct defined by the Contributor Covenant. This document is used across many open source communities, and articulates our values well. The purpose of this document is to go over how you can contribute.
+
+## Code of Conduct
+For more detail, please read the [Code of Conduct](https://www.swift.org/code-of-conduct/). 
 
 ## Contributing to /swiftlang/[repo-name-here]
+[Optional: Project Logo]
 
 ### How you can help
 We would love your contributions in the form of:
 - this is your wishlist!
 - don't forget documentation, samples, conference talks
-- helping to triage the issue log 
+- help triage the issue log 
+- reporting bugs
 - think of really concrete things that can help people get started
 - need future CODEOWNERs? great place to put some words down on how that is achievable here
 
+### Setting up Your Environment
+- Explain key steps for setting up the developer's environment to get started
+- You can also refer to the README if that has this information 
+
+### Commit Access
+- Explain any specific information related to granting contributors commit access
+
 ### Submitting Issues and Pull Requests 
-[ONLY if different than swift.org/contributing]
+- Add or change this section ONLY if different than swift.org/contributing
 
 #### Issues 
-[insert instructions helping with triage - how?]
-[insert instructions about labels]
-[If your repo uses good first issues or help wanted, indicate that here with some basic definitions or link to the main contributing guide defintions]
+- insert instructions helping with triage - how?
+- insert instructions about labels
+
+#### Good First Issues
+- If your repo uses good first issues or help wanted, indicate that here with some basic definitions or link to the main contributing guide defintions
+- Explain or list how to find good first issues and indicate if there is a label that can help locate these
 
 #### PR Style Guide or Format 
-[is there a style to follow or other conventions?]
+- Provide specific guildelines on style and formatting
+- Indicate convention for comments and documentation
+- Is there an expected way to write commit messages?
 
-#### Build and Test
-[Insert instructions here on how to build and test the repository]
+#### Build
+[Insert instructions here on how to build]
+
+#### Test
+[Insert instructions here on how to test]
 
 #### Running CI 
-[instructions for process here]
+[Insert instructions for process here]
+
+#### Quality
+[Insert instructions for code quality]
 
 #### Other pre-check PR scripts
-[insert instructions for anything that happens / needs to happen on pre-check]
-
+[Insert instructions for anything that happens / needs to happen on pre-check]
 
 ### Getting your PR reviewed 
-[instructions on how to call to the attention of the reviewers]
-[how to find out who the reviewers are]
-[authoring commits]
-[squash ok?]
+[Insert Instructions on how to call to the attention of the reviewers]
+- how to find out who the reviewers are
+- authoring commits
+- squash ok?
+

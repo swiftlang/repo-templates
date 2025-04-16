@@ -1,7 +1,3 @@
-<style>H1{color:#5DADE2;}</style>
-<style>H2{color:#85C1E9;}</style>
-<style>H3{color:#85C1E9;}</style>
-<style>H4{color:#85C1E9;}</style>
 # CONTRIBUTING.md Custom Template
 
 ## Guidelines [to mantainer]

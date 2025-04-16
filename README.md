@@ -12,22 +12,23 @@ Invite George B, Franz, and Honza to contribute for packages / libraries
 
 ## Org Level 
 
-/swiftlang provides some documents at the organization level .github folder that powers consistency across all repositories. 
+/swiftlang provides some documents at the organization level .github folder that powers consistency across all repositories. Read more general information about GitHub Org Level Files [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
 The below files are provided and would need a special exception from the Core Team in order to opt-out:
-- SECURITY.md
 - CONDUCT.md
+- SECURITY.md
 
-[Read more general information about GitHub Org Level Files here]
+
 
 
 ## Repo Level 
 
 The following files are required in each repo and are not set at Org level:
-- CONTRIBUTING.md+
 - LICENSE
 - README.md
 - CONTRIBUTORS.txt
+- CONTRIBUTING.md** (only if there are custom processes, environment set up instructions, or the repo needs more instructions than whats on the README) 
+
 
 .github templates:
 - codeowners
@@ -35,4 +36,4 @@ The following files are required in each repo and are not set at Org level:
 - issue template
 
 
-+this file can be present at the .github org level but it does not have the same distribution benefits as other files so repo level is required 
+**this file can be present at the .github org level but it does not have the same distribution benefits as other files so repo level is required 

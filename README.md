@@ -14,7 +14,7 @@ Invite George B, Franz, and Honza to contribute for packages / libraries
 
 /swiftlang provides some documents at the organization level .github folder that powers consistency across all repositories. Read more general information about GitHub Org Level Files [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
-The below files are provided and would need a special exception from the Core Team in order to opt-out:
+The project has implemented the following files at the org level would need a special exception from the Core Team in order to opt-out:
 - CONDUCT.md
 - SECURITY.md
 

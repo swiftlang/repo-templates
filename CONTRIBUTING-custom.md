@@ -60,7 +60,7 @@ For more detail, please read the [Code of Conduct](https://www.swift.org/code-of
 *Explain any specific information related to granting contributors commit access* 
  
 ### Additional Resources
-*Use this space for include the Licence or linking ot the README, Code of Conductor or any other extra links.
+*Use this space for include the Licence or linking ot the README, Code of Conductor or any other extra links.*
 
 ### Contact Information
 *If this repository has key owners and moderators explain that here. For serious concerns, consider relaying issues to the [Swift Core Team](https://swift.org/community/#community-structure).*

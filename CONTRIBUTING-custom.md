@@ -3,7 +3,7 @@
 ## Guidelines [to mantainer]
 - If you have additional guidelines not covered by the [Contributing to Swift guide](https://swift.org/contributing/), take a copy of this template, filling in the details in the sections below.
 - Otherwise, add a section to your `README` pointing at [the guide](https://swift.org/contributing/) and ignore this template. 
-- Only use the sections that are relevant
+- Exclude sections that are irrelevant
 - Remove all brackets and questions posed at you as the author 
 - Use visuals and flowcharts to step through the process of contributing
 ----------
@@ -25,10 +25,10 @@ For more detail, please read the [Code of Conduct](https://www.swift.org/code-of
 *List examples of how developers can contribute (e.g., triage issue logs, report bugs, and become CODEOWNERs). This is also a good place to provide resources here such as documentation, code samples, research papers, and conference talks.*
 
 ### Setting Up Your Environment
-*Explain key steps for setting up the developer's environment to get started.You can also refer to the README if that has this information*
+*Explain key steps for setting up the developer's environment to get started. You can also refer to the README if that has this information.*
 
 #### Good First Issues
-*If your repo uses good first issues or help wanted, indicate that here with some basic definitions or link to the main contributing guide defintions. Explain or list how to find good first issues and indicate if there is a label that can help locate these.*
+*If your repo uses good first issues or help wanted indicate that here with basic definitions or link to the main contributing guide defintions. Explain or list how to find good first issues and claify if there is a label that can help locate these.*
 
 #### Issues
 *Insert instructions guiding contributors on how to triage for issues and include information about issue labels if relevant.*

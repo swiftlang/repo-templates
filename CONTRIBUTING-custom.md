@@ -28,16 +28,18 @@ For more detail, please read the [Code of Conduct](https://www.swift.org/code-of
 *Explain key steps for setting up the developer's environment to get started. You can also refer to the README if that has this information.*
 
 #### Good First Issues
-*If your repo uses good first issues or help wanted indicate that here with basic definitions or link to the main contributing guide defintions. Explain or list how to find good first issues and claify if there is a label that can help locate these.*
+*If your repo uses good first issues or help wanted indicate that here with basic definitions or link to the main contributing guide defintions. Explain or list how to find good first issues and clarify if there is a label that can help locate these.*
 
 #### Issues
 *Insert instructions guiding contributors on how to triage for issues and include information about issue labels if relevant.*
+#### Proposing Features
+*Include specific instructions for how contributors could raise a Feature Request.*
 
 ### Submitting Issues and Pull Requests 
 *Add or change this section ONLY if different than swift.org/contributing*
 
 #### PR Style Guide or Format 
-*Provide specific guildelines on style and formatting. Indicate convention for comments and documentation. Specifiy if there an expected way to write commit messages.*
+*Provide specific guildelines on style and formatting. Indicate convention for comments and documentation. Feel free to also refer to specific documents outlining this information as well, as some repositories might even have a style guide markdown file. Specifiy if there an expected way to write commit messages.*
 
 #### Build
 *Insert instructions here on how to build.*
@@ -54,6 +56,11 @@ For more detail, please read the [Code of Conduct](https://www.swift.org/code-of
 ### Getting your PR reviewed 
 *Insert instructions on how to call to the attention of the reviewers and how to find reviewers. Also consider specifying cases for authoring commits and squashes.*
 
-
 ### Commit Access
 *Explain any specific information related to granting contributors commit access* 
+ 
+### Additional Resources
+*Use this space for include the Licence or linking ot the README, Code of Conductor or any other extra links.
+
+### Contact Information
+*If this repository has key owners and moderators explain that here. For serious concerns, consider relaying issues to the [Swift Core Team](https://swift.org/community/#community-structure).*

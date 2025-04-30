@@ -2,14 +2,6 @@
 
 Helpful file templates and guidance for repositories in /swiftlang. Project maintainers should use this guidance for the root files of every repository. 
 
-## Notes for contribex members / roles:
-Anthony: queue up codeowners, PR, and issue templates guidance  
-Devanshi: README template  
-Harshita: CONTRIBUTING custom template  
-Joe: editor   
-Paris: repo-template README + CONTRIBUTORS.txt + lead and mentor - assist you all in each area   
-Invite George B, Franz, and Honza to contribute for packages / libraries   
-
 ## Org Level 
 
 /swiftlang provides some documents at the organization level .github folder that powers consistency across all repositories. Read more general information about GitHub Org Level Files [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)

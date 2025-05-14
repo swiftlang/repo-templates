@@ -1,4 +1,4 @@
-# Swift Repository Templates
+# 🖼️ 📄 Swift Repository Templates 🖼️ 📄
 
 Helpful file templates and guidance for repositories in /swiftlang. Project maintainers should use this guidance for the root files of every repository. 
 
@@ -9,9 +9,6 @@ Helpful file templates and guidance for repositories in /swiftlang. Project main
 The project has implemented the following files at the org level would need a special exception from the Core Team in order to opt-out:
 - CONDUCT.md
 - SECURITY.md
-
-
-
 
 ## Repo Level 
 

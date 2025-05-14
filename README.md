@@ -2,7 +2,7 @@
 
 Helpful file templates and guidance for repositories in /swiftlang. Project maintainers should use this guidance for the root files of every repository. 
 
-## Org Level 
+## 🌐 Org Level 
 
 /swiftlang provides some documents at the organization level .github folder that powers consistency across all repositories. Read more general information about GitHub Org Level Files [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
@@ -10,7 +10,7 @@ The project has implemented the following files at the org level would need a sp
 - CONDUCT.md
 - SECURITY.md
 
-## Repo Level 
+## 🏠 Repo Level 
 
 The following files are required in each repo and are not set at Org level:
 - LICENSE

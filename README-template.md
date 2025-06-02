@@ -111,13 +111,13 @@ guides for using the project.
 
 ## 💡 Contributing
 
-<!-- Choose ONE of the following Contributing sections based on whether you have a project spect CONTRIBUTING.md file -->
-<!-- OPTION 1: For repos WITHOUT a custom CONTRIBUTING.md file -->
+`<!-- Choose ONE of the following Contributing sections based on whether you have a project spect CONTRIBUTING.md file -->`
+`<!-- OPTION 1: For repos WITHOUT a custom CONTRIBUTING.md file -->`  
 We welcome contributions to [Project Name]! 
 
 To get started, please read the [Contributing Guide](https://www.swift.org/contributing/).
 
-<!-- OPTION 2: For repos WITH a custom CONTRIBUTING.md file -->
+`<!-- OPTION 2: For repos WITH a custom CONTRIBUTING.md file -->`  
 We welcome contributions to [Project Name]! 
 
 Please see our CONTRIBUTING.md file for guidelines specific to this project.

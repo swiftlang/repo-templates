@@ -120,7 +120,7 @@ To get started, please read the [Contributing Guide](https://www.swift.org/contr
 `<!-- OPTION 2: For repos WITH a custom CONTRIBUTING.md file -->`  
 We welcome contributions to [Project Name]! 
 
-Please see our CONTRIBUTING.md file for guidelines specific to this project.
+Please see our [CONTRIBUTING.md](link) file for guidelines specific to this project.
 
 [If there are specific setup requirements for contributors that differ from users, include them here.]
 - [How to get started as a contributor]

@@ -26,3 +26,7 @@ The following files are required in each repo and are not set at Org level:
 
 
 **this file can be present at the .github org level but it does not have the same distribution benefits as other files so repo level is required 
+
+## Contributing
+We welcome contributions to this repository! Please read the [Contributor Guide](swift.org/contributing) to get started. If you'd like to propose
+an entire file, please start with an issue or start a post in the category for [Contributor Experience Workgroup](https://forums.swift.org/c/contributor-experience/110) on the Forums. 

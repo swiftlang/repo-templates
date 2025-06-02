@@ -19,6 +19,9 @@ To be a truly great community, Swift welcomes developers from all walks of life,
 
 ### How You Can Help
 *List examples of how developers can contribute (e.g., triage issue logs, report bugs, and become CODEOWNERs). This is also a good place to provide resources here such as documentation, code samples, research papers, and conference talks.*
+* Put them
+* In a list
+* Here
 
 ### Setting Up Your Environment
 *Explain key steps for setting up the developer's environment to get started. You can also refer to the README if that has this information.*

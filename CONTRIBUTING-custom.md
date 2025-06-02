@@ -17,10 +17,6 @@ To be a truly great community, Swift welcomes developers from all walks of life,
 ## Contributing to /swiftlang/[repo-name-here]
 [Optional: Project Logo]
 
-## Code of Conduct
-To clarify of what is expected of our members, Swift has adopted the code of conduct defined by the Contributor Covenant. This document is used across many open source communities and articulates our values well. 
-For more detail, please read the [Code of Conduct](https://www.swift.org/code-of-conduct/). 
-
 ### How You Can Help
 *List examples of how developers can contribute (e.g., triage issue logs, report bugs, and become CODEOWNERs). This is also a good place to provide resources here such as documentation, code samples, research papers, and conference talks.*
 
@@ -64,3 +60,7 @@ For more detail, please read the [Code of Conduct](https://www.swift.org/code-of
 
 ### Contact Information
 *If this repository has key owners and moderators explain that here. For serious concerns, consider relaying issues to the [Swift Core Team](https://swift.org/community/#community-structure).*
+
+## Code of Conduct
+To clarify of what is expected of our members, Swift has adopted the code of conduct defined by the Contributor Covenant. This document is used across many open source communities and articulates our values well. 
+For more detail, please read the [Code of Conduct](https://www.swift.org/code-of-conduct/). 

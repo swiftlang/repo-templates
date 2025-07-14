@@ -134,6 +134,9 @@ If you have any questions or need help, feel free to reach out by [opening an is
 - [GitHub Issues](link-to-issues) - Bug reports and feature requests
 - [Forums](link-to-forums) - General discussion and support
 - Team Contact: [@team-handle]
+- [link to CODEOWNERS] (if no CODEOWNERS, then list of maintainer handles here]
+
+This repo is part of the [insert Workgroup or Steering Group name here]
 
 ## 🔐 Security
 If you discover a security vulnerability, please follow our [security policy](SECURITY.md) for responsible disclosure.

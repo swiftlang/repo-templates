@@ -29,4 +29,4 @@ The following files are required in each repo and are not set at Org level:
 
 ## Contributing
 We welcome contributions to this repository! Please read the [Contributor Guide](swift.org/contributing) to get started. If you'd like to propose
-an entire file, please start with an issue or start a post in the category for [Contributor Experience Workgroup](https://forums.swift.org/c/contributor-experience/110) on the Forums. 
+an new file, section, or major change, please start with an issue or start a discussion post in the category for [Contributor Experience Workgroup](https://forums.swift.org/c/contributor-experience/110) on the Forums. 

@@ -2,30 +2,31 @@
 
 Helpful file templates and guidance for repositories in /swiftlang. Project maintainers should use this guidance for the root files of every repository. 
 
-## 🌐 Org Level 
+## 🌐 SwiftLang GitHub Organization (Org) Level 
 
 /swiftlang provides some documents at the organization level .github folder that powers consistency across all repositories. Read more general information about GitHub Org Level Files [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
 The project has implemented the following files at the org level would need a special exception from the Core Team in order to opt-out:
 - CONDUCT.md
 - SECURITY.md
+- CONTRIBUTING.md (links to [swift.org/contributing](swift.org/contributing))
 
 ## 🏠 Repo Level 
 
 The following files are required in each repo and are not set at Org level:
 - LICENSE
 - README.md
-- CONTRIBUTORS.txt
-- CONTRIBUTING.md** (only if there are custom processes, environment set up instructions, or the repo needs more instructions than whats on the README) 
-
-
+  
+Special Note:
+- CONTRIBUTING.md  
+  We encourage repo owners to have a custom CONTRIBUTING.md file. Many repos have different review flows, environment set up instructions, testing, and related that may help contributors AND maintainers have a better experience.
+- NOTICE or ACKNOWLEDGEMENTS  
+  A repository may need to use one of these two files to include license information and more for dependancies, vendored code, etc. Please work with the [Core Team](https://forums.swift.org/new-message?groupname=core-team) to figure out the best course of action here. 
+  
 .github templates:
 - codeowners
 - pull request template
 - issue template
-
-
-**this file can be present at the .github org level but it does not have the same distribution benefits as other files so repo level is required 
 
 ## Contributing
 We welcome contributions to this repository! Please read the [Contributor Guide](swift.org/contributing) to get started. If you'd like to propose

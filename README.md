@@ -1,20 +1,22 @@
 # 🖼️ 📄 Swift Repository Templates 🖼️ 📄
 
-Helpful file templates and guidance for repositories in /swiftlang. Project maintainers should use this guidance for the root files of every repository. 
+Helpful file templates and guidance for repositories in github.com/swiftlang. Project maintainers should use this guidance for the root files of every repository. 
 
 ## 🌐 SwiftLang GitHub Organization (Org) Level 
 
-/swiftlang provides some documents at the organization level .github folder that powers consistency across all repositories. Read more general information about GitHub Org Level Files [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+There is an organizational level [.github](https://github.com/swiftlang/.github) folder that optimizes for consistency across all repositories. Read more information about GitHub Org Level Files [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
-The project has implemented the following files at the org level would need a special exception from the Core Team in order to opt-out:
-- CONDUCT.md
-- SECURITY.md
+- CONDUCT.md**
+- SECURITY.md**
 - CONTRIBUTING.md (links to [swift.org/contributing](swift.org/contributing))
+  
+** = special exception from the Core Team in order to opt-out
 
 ## 🏠 Repo Level 
 
 The following files are required in each repo and are not set at Org level:
-- LICENSE
+- LICENSE  
+  If it's not Apache 2.0, Core Team will need to approve. GitHub has a [license picker after typing LICENSE in the file name when adding a new file.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#applying-a-license-to-a-repository-with-an-existing-license) 
 - README.md
   
 Special Note:

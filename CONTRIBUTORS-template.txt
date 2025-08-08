@@ -1,6 +1,0 @@
-This file contains a list of contributors who have made meaningful changes to this repository. 
-
-Please add your name to this file as an optional step in the contribution process for attribution; email is not required.
-
-# Contributors 
-[insert name here]

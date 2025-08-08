@@ -15,7 +15,8 @@ There is an organizational level [.github](https://github.com/swiftlang/.github)
 ## 🏠 Repo Level 
 
 The following files are required in each repo and are not set at Org level:
-- LICENSE
+- LICENSE  
+  If it's not Apache 2.0, Core Team will need to approve. GitHub has a [license picker after typing LICENSE in the file name when adding a new file.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#applying-a-license-to-a-repository-with-an-existing-license) 
 - README.md
   
 Special Note:

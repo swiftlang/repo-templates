@@ -1,9 +1,9 @@
 # README Template 
 
-## Instructions [to mantainer]
-- If a header doesn't make sense for your repo, remove it
-- Fill in the [blanks] and answer the bullets questions, remove it if it's not necessary
-- Remove this instructions section before committing the final version of the file 
+## Instructions [to maintainer]
+- If a header doesn't make sense for your repo, remove it.
+- Fill in the [blanks] and answer the bullets questions, remove it if it's not necessary.
+- Remove this instructions section before committing the final version of the file.
 
 [Optional: Project Logo]
 
@@ -38,15 +38,15 @@
 [Provide a brief description of the repository, its purpose, and key features.]
 
 ## ⚙️ Use Cases
-[List primary use cases and scenarios where this project shines. Include code snippets or real-world examples where helpful]
+[List primary use cases and scenarios where this project shines. Include code snippets or real-world examples where helpful.]
 
 ## 📋 Glossary
-[Explain important terms here that could mean other things in different projects or brand new concepts/terms]
+[Explain important terms here that could mean other things in different projects or brand-new concepts/terms.]
 
 ## 🏁 Getting Started
 
 ### Prerequisites
-[List the tools, libraries, or environment setup needed to work with this repository. Include links, version requirements or instructions for installation if necessary.]
+[List the tools, libraries, or environment setup needed to work with this repository. Include links, version requirements, or instructions for installation if necessary.]
 <!-- EXAMPLE:
 - Swift version: [minimum Swift version required, e.g., Swift 5.0+]
 - Deployment targets if any:
@@ -134,7 +134,7 @@ If you have any questions or need help, feel free to reach out by [opening an is
 - [GitHub Issues](link-to-issues) - Bug reports and feature requests
 - [Forums](link-to-forums) - General discussion and support
 - Team Contact: [@team-handle]
-- [link to CODEOWNERS] (if no CODEOWNERS, then list of maintainer handles here]
+- [link to CODEOWNERS] (if no CODEOWNERS, then provide a list of maintainer handles)
 
 This repo is part of the [insert Workgroup or Steering Group name here]
 

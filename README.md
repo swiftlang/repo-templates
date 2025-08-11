@@ -16,14 +16,14 @@ There is an organizational level [.github](https://github.com/swiftlang/.github)
 
 The following files are required in each repo and are not set at Org level:
 - LICENSE  
-  If it's not Apache 2.0, Core Team will need to approve. GitHub has a [license picker after typing LICENSE in the file name when adding a new file.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#applying-a-license-to-a-repository-with-an-existing-license) 
+  If it's not Apache 2.0, the Core Team will need to approve. GitHub has a [license picker after typing LICENSE in the file name when adding a new file.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#applying-a-license-to-a-repository-with-an-existing-license)
 - README.md
   
 Special Note:
 - CONTRIBUTING.md  
   We encourage repo owners to have a custom CONTRIBUTING.md file. Many repos have different review flows, environment set up instructions, testing, and related that may help contributors AND maintainers have a better experience.
 - NOTICE or ACKNOWLEDGEMENTS  
-  A repository may need to use one of these two files to include license information and more for dependancies, vendored code, etc. Please work with the [Core Team](https://forums.swift.org/new-message?groupname=core-team) to figure out the best course of action here. 
+  A repository may need to use one of these two files to include license information and more for dependencies, vendored code, etc. Please work with the [Core Team](https://forums.swift.org/new-message?groupname=core-team) to figure out the best course of action here.
   
 .github templates:
 - codeowners
@@ -32,4 +32,4 @@ Special Note:
 
 ## Contributing
 We welcome contributions to this repository! Please read the [Contributor Guide](swift.org/contributing) to get started. If you'd like to propose
-an new file, section, or major change, please start with an issue or start a discussion post in the category for [Contributor Experience Workgroup](https://forums.swift.org/c/contributor-experience/110) on the Forums. 
+a new file, section, or major change, please start with an issue or start a discussion post in the category for the [Contributor Experience Workgroup](https://forums.swift.org/c/contributor-experience/110) on the Forums.

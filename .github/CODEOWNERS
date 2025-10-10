@@ -53,7 +53,7 @@
 # D: Nike, Swift Core Team
 
 # Default code owner of everything.
-* @swiftlang/core-team @AnthonyLatsis @harshitapath @devanshimodha @parispittman
+* @swiftlang/core-team @AnthonyLatsis @harshitapath @devanshimodha
 
 # .github
 /.github/CODEOWNERS @AnthonyLatsis @parispittman

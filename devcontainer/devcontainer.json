@@ -1,13 +1,29 @@
 // Reference: https://containers.dev/implementors/json_reference/
 {
-  "name": "SourceKit-LSP",
-  "build": {
-    "dockerFile": "Dockerfile",
-    "args": {
-      // Update 'SWIFT_VERSION' to change the Swift version in the container.
-      "SWIFT_VERSION": "6.2"
-    }
+  "name": "Swift Package devContainer",
+  // "build": {
+  //   "dockerFile": "Dockerfile",
+  //   "args": {
+  //     // Update 'SWIFT_VERSION' to change the Swift version in the container.
+  //     "SWIFT_VERSION": "6.2"
+  //   }
+  // },
+  "image": "swift:6.2",
+  "features": {
+      "ghcr.io/devcontainers/features/common-utils:2": {
+          "installZsh": "false",
+          "username": "ubuntu",
+          "upgradePackages": "false"
+      },
+      // ensure that git is installed
+      "ghcr.io/devcontainers/features/git:1": {
+          "version": "os-provided",
+          "ppa": "false"
+      },
+      // enable jemalloc to support package-benchmark
+      "ghcr.io/swift-server-community/swift-devcontainer-features/jemalloc:1": { }
   },
+
   "hostRequirements": {
     // ensure that the container has sufficient memory to build Swift projects
     "memory": "4gb"
@@ -24,20 +40,6 @@
     // Use a named volume for the build products for optimal performance (https://code.visualstudio.com/remote/advancedcontainers/improve-performance#_use-a-targeted-named-volume)
     "source=${localWorkspaceFolderBasename}-build,target=${containerWorkspaceFolder}/.build,type=volume"
   ],
-  "features": {
-        "ghcr.io/devcontainers/features/common-utils:2": {
-            "installZsh": "false",
-            "username": "ubuntu",
-            "upgradePackages": "false"
-        },
-        // ensure that git is installed
-        "ghcr.io/devcontainers/features/git:1": {
-            "version": "os-provided",
-            "ppa": "false"
-        },
-        // enable jemalloc to support package-benchmark
-        "ghcr.io/swift-server-community/swift-devcontainer-features/jemalloc:1": { }
-  },
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],

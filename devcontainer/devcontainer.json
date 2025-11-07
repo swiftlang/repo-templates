@@ -3,10 +3,6 @@
   "name": "Swift Package devContainer",
   "build": {
     "dockerfile": "Dockerfile",
-    "args": {
-      // Update 'SWIFT_VERSION' to change the Swift version in the container.
-      "SWIFT_VERSION": "6.2"
-    }
   },
   "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
@@ -59,6 +55,6 @@
   },
 
   // Update the .build directory in the workspace to be owned by the 'ubuntu' user to leverage
-  // the `mounts` above for performance, then report the Swift version.
-  "postCreateCommand": "sudo chown ubuntu .build && swift --version"
+  // the `mounts` above for performance.
+  "postCreateCommand": "sudo chown ubuntu .build"
 }

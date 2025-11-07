@@ -30,6 +30,7 @@ RUN apt-get -q install -y \
       libncurses5-dev \
       python3 \
       build-essential
+
 # Switch to the ubuntu user to set up swiftly for its use
 USER ubuntu
 RUN /swiftly init --assume-yes --quiet-shell-followup
@@ -37,5 +38,7 @@ RUN echo "if [ -f ~/.local/share/swiftly/env.sh ]; then" >> ~/.bashrc
 RUN echo "  . ~/.local/share/swiftly/env.sh" >> ~/.bashrc
 RUN echo "fi" >> ~/.bashrc
 
-# docker build -f Dockerfile-swiftly -t check .
-# docker run --rm -it check bash
+# Clean up
+USER root
+RUN rm swiftly-$(uname -m).tar.gz
+RUN rm /swiftly

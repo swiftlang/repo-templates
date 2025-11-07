@@ -1,14 +1,13 @@
 // Reference: https://containers.dev/implementors/json_reference/
 {
   "name": "Swift Package devContainer",
-  // "build": {
-  //   "dockerFile": "Dockerfile",
-  //   "args": {
-  //     // Update 'SWIFT_VERSION' to change the Swift version in the container.
-  //     "SWIFT_VERSION": "6.2"
-  //   }
-  // },
-  "image": "swift:latest",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      // Update 'SWIFT_VERSION' to change the Swift version in the container.
+      "SWIFT_VERSION": "6.2"
+    }
+  },
   "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
           "installZsh": "false",
@@ -59,6 +58,7 @@
     }
   },
 
-  // Report the version of Swift
-  "postCreateCommand": "swiftc --version"
+  // Update the .build directory in the workspace to be owned by the 'ubuntu' user to leverage
+  // the `mounts` above for performance, then report the Swift version.
+  "postCreateCommand": "sudo chown ubuntu .build && swift --version"
 }

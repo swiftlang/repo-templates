@@ -30,6 +30,9 @@ Special Note:
 - pull request template
 - issue template
 
+.devcontainer templates:
+- [library](devcontainer) - a base set of .devcontainer files to use when developing a Swift package
+
 ## Contributing
 We welcome contributions to this repository! Please read the [Contributor Guide](swift.org/contributing) to get started. If you'd like to propose
 a new file, section, or major change, please start with an issue or start a discussion post in the category for the [Contributor Experience Workgroup](https://forums.swift.org/c/contributor-experience/110) on the Forums.

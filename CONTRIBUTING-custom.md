@@ -4,13 +4,13 @@
 - If you have additional guidelines not covered by the [Contributing to Swift guide](https://swift.org/contributing/), take a copy of this template, filling in the details in the sections below.
 - Otherwise, add a section to your `README` pointing at [the guide](https://swift.org/contributing/) and ignore this template. 
 - Exclude sections that are irrelevant.
-- Remove all brackets and questions posed at you as the author.
+- Remove all brackets and questions posed to you as the author.
 - Use visuals and flowcharts to step through the process of contributing.
 ----------
 
 ## Welcome to the Swift community!
 
-Contributions to Swift are welcomed and encouraged! Please see the [Contributing to Swift guide](https://www.swift.org/contributing/) and check out [the structure of the community](https://www.swift.org/community/#community-structure).
+Contributions to Swift are welcome and encouraged! Please see the [Contributing to Swift guide](https://www.swift.org/contributing/) and check out [the structure of the community](https://www.swift.org/community/#community-structure).
 
 To be a truly great community, Swift welcomes developers from all walks of life, with different backgrounds, and with a wide range of experience. A diverse and friendly community has more great ideas, more unique perspectives, and produces more great code. We work diligently to make the Swift community welcoming to everyone.
 
@@ -60,7 +60,7 @@ in a list.
 *Explain any specific information related to granting contributors commit access.*
  
 ### Additional Resources
-*Use this space to include the License or linking to the README, Code of Conductor, or any other extra links.*
+*Use this space to include the License or linking to the README, Code of Conduct, or any other extra links.*
 
 ### Contact Information
 *If this repository has key owners and moderators, explain that here. For serious concerns, consider relaying issues to the [Swift Core Team](https://swift.org/community/#community-structure).*

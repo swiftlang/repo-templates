@@ -2,8 +2,8 @@
 
 ## Instructions [to maintainer]
 - If a header doesn't make sense for your repo, remove it.
-- Fill in the [blanks] and answer the bullets questions, remove it if it's not necessary.
-- Remove this instructions section before committing the final version of the file.
+- Fill in the [blanks] and answer the bullet questions. Remove any that are not necessary.
+- Remove these instructions before committing the final version of the file.
 
 [Optional: Project Logo]
 
@@ -104,14 +104,14 @@ guides for using the project.
 - [Troubleshooting](link-to-troubleshooting) - Common issues and solutions
 
 ## 🧰 Release Info
-- Does this repo participate in the Swift release process? If not, get it detailed here about how many releases that users can expect a year and other details 
+- Does this repo participate in the Swift release process? If not, provide details here about how many releases users can expect a year and other details 
 - Release Cadence: [Describe release schedule or process]
 - Version Compatibility: [Detail Swift/platform version requirements]
 - Migration Guides: [Link to upgrade guides between major versions]
 
 ## 💡 Contributing
 
-`<!-- Choose ONE of the following Contributing sections based on whether you have a project spect CONTRIBUTING.md file -->`
+`<!-- Choose ONE of the following Contributing sections based on whether you have a project-specific CONTRIBUTING.md file -->`
 `<!-- OPTION 1: For repos WITHOUT a custom CONTRIBUTING.md file -->`  
 We welcome contributions to [Project Name]! 
 

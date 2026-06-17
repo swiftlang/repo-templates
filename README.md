@@ -8,7 +8,7 @@ There is an organizational level [.github](https://github.com/swiftlang/.github)
 
 - CONDUCT.md**
 - SECURITY.md**
-- CONTRIBUTING.md (links to [swift.org/contributing](swift.org/contributing))
+- CONTRIBUTING.md (links to [swift.org/contributing](https://swift.org/contributing))
   
 ** = special exception from the Core Team in order to opt-out
 
@@ -21,7 +21,7 @@ The following files are required in each repo and are not set at Org level:
   
 Special Note:
 - CONTRIBUTING.md  
-  We encourage repo owners to have a custom CONTRIBUTING.md file. Many repos have different review flows, environment set up instructions, testing, and related that may help contributors AND maintainers have a better experience.
+  We encourage repo owners to have a custom CONTRIBUTING.md file. Many repos have different review flows, environment set up instructions, testing, and related processes that may help contributors AND maintainers have a better experience.
 - NOTICE or ACKNOWLEDGEMENTS  
   A repository may need to use one of these two files to include license information and more for dependencies, vendored code, etc. Please work with the [Core Team](https://forums.swift.org/new-message?groupname=core-team) to figure out the best course of action here.
   
@@ -31,5 +31,5 @@ Special Note:
 - issue template
 
 ## Contributing
-We welcome contributions to this repository! Please read the [Contributor Guide](swift.org/contributing) to get started. If you'd like to propose
+We welcome contributions to this repository! Please read the [Contributor Guide](https://swift.org/contributing) to get started. If you'd like to propose
 a new file, section, or major change, please start with an issue or start a discussion post in the category for the [Contributor Experience Workgroup](https://forums.swift.org/c/contributor-experience/110) on the Forums.
